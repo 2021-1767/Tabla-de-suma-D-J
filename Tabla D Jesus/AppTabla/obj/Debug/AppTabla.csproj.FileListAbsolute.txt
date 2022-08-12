@@ -1,0 +1,11 @@
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\bin\Debug\AppTabla.exe.config
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\bin\Debug\AppTabla.exe
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\bin\Debug\AppTabla.pdb
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.Form1.resources
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.exe
+C:\Users\Usuario\Source\Repos\AppTabla\AppTabla\obj\Debug\AppTabla.pdb
